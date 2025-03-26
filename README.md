@@ -1,6 +1,6 @@
 # Three.js Open World Monster Driver 🚗👾
 
-A simple open-world driving game built purely with Three.js, running directly in the browser. Drive your customizable car, avoid procedurally generated obstacles and chase monsters, and survive as long as possible!
+A simple open-world driving game built purely with Three.js, running directly in the browser. Drive your customizable car, avoid procedurally generated obstacles, and survive as long as possible!
 
 ## Live Demo ✨
 

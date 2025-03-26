@@ -12,8 +12,7 @@ Play the game live here:
 *   Infinite open world with a grid floor and procedurally generated obstacles.
 *   Basic car model with customizable color selected at the start.
 *   Keyboard controls (WASD/Arrows) for acceleration, braking, and steering.
-*   Monsters that spawn and chase the player after reaching a score threshold (30 points).
-*   Collision detection with obstacles and monsters results in Game Over.
+*   Collision detection with obstacles results in Game Over.
 *   Score based on survival time (in seconds/points).
 *   Gradually increasing maximum car speed based on the current score.
 *   Start Menu, Color Selection screen, and Game Over screen.

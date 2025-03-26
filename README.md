@@ -42,8 +42,8 @@ Because this project uses JavaScript ES Modules (`import * as THREE from '...'`)
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<vesuvius13>/<open-world-driver>.git
-    cd <your-repo-name>
+    git clone https://github.com/vesuvius13/open-world-driver.git
+    cd open-world-driver
     ```
     *(Replace with your actual username and repo name)*
 

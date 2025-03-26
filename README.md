@@ -42,14 +42,14 @@ Because this project uses JavaScript ES Modules (`import * as THREE from '...'`)
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/<your-repo-name>.git
+    git clone https://github.com/<vesuvius13>/<open-world-driver>.git
     cd <your-repo-name>
     ```
     *(Replace with your actual username and repo name)*
 
 2.  **Use a simple local server:** The easiest way is often using Node.js:
     *   Make sure you have [Node.js](https://nodejs.org/) installed.
-    *   Open your terminal in the project directory (`<your-repo-name>`).
+    *   Open your terminal in the project directory (`open-world-driver`).
     *   Run the following command:
         ```bash
         npx serve
